@@ -1,7 +1,7 @@
 # __Robot Hand__ ![OK robot hand](https://user-images.githubusercontent.com/126341194/221851360-df9ffd0c-442c-4702-aa64-150052dbed03.PNG)
 
 
-## A robot hand that mimic human hand gesture using OpenCV which is installed in Raspberry pi 4B.
+## A robot hand that mimics human hand gesture using OpenCV which is installed in Raspberry pi 4B.
 ## General Information-
 This project is a prototype showcasing the industrial application of OpenCV associated with Universal Robot(UR5e).
 - Components used - Raspberry Pi(4B), Webcam(Any webcame more than 5 MP), Servomotor(MG 995)
